@@ -1,2 +1,3 @@
 # P2P_realtime_simulation
 p2p simulation file sharing real time using socket
+our main aim in this project is to share files b/w clients using socket and threading......
